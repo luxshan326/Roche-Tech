@@ -1,20 +1,26 @@
 # Roche Tech 🚀
 
-My Dream Company - Started from Mannar, Sri Lanka 🇱🇰
+> My Dream Company - Started from Mannar, Sri Lanka
 
-### Founder
-R.M.Roche Luxshan | BSc Software Engineering (Top-up) E soft uni| HND IT @ ATI Jaffna
+### 👨‍💻 Founder: Luxshan Raj
+- Python Developer
+- HND IT @ ATI Jaffna
+- BSc Hons Software Engineering @ E-Soft Uni Jaffna
+- Focused on Automation & AI Tools
 
-### What We Do
-- 🐍 Python Automation & Web Scraping
-- 📊 Excel Data Automation 
-- 🌐 Small Business Websites
+### 🎯 What We Do
+- Python Automation Scripts
+- Web Scraping & Data Extraction
+- Custom Software Solutions
+- Student Management Systems
 
-### Vision
-"No job company, I will make my own company" 💪
-
-### Contact for Freelance Work
-- GitHub: luxshan326
+### 🌐 Connect
+- GitHub: github.com/luxshan326
+- LinkedIn: in/luxshan-raj-231abb214
 - X: @Luxshanraj
-0774391624
-⭐ Star this repo to support my journey!
+
+### 🚀 Vision
+Building the future with code from Mannar to the World.
+
+---
+© 2026 Roche Tech | Built with ❤️ by Luxshan
